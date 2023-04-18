@@ -1,0 +1,44 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    
+   
+}
+
+.table {
+   margin: 50px;
+   margin-bottom: 10px;
+   table-layout: auto;
+   text-align: center;
+  
+ 
+  
+   
+}
+
+.table td {
+    border: solid 2px black;
+    padding: 0px 100px;
+}
+
+.table th {
+    border: solid 2px black; ;
+}
+
+.header {
+    font-weight: bold;
+    border: solid 2px black;
+    padding: 20px;
+    background-color: rgb(197, 20, 20);
+    color: white;
+
+}
+
+
+.image {
+    width: 500px;
+}
